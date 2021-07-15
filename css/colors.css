@@ -1,0 +1,20 @@
+/* Color Theme Swatches in Hex */
+.Medisanitize---Colour-Theme-1-hex { color: #F24B6A; }
+.Medisanitize---Colour-Theme-2-hex { color: #D92B3A; }
+.Medisanitize---Colour-Theme-3-hex { color: #026873; }
+.Medisanitize---Colour-Theme-4-hex { color: #2C90CE; }
+.Medisanitize---Colour-Theme-5-hex { color: #18C5D9; }
+
+/* Color Theme Swatches in RGBA */
+.Medisanitize---Colour-Theme-1-rgba { color: rgba(242, 75, 106, 1); }
+.Medisanitize---Colour-Theme-2-rgba { color: rgba(217, 43, 58, 1); }
+.Medisanitize---Colour-Theme-3-rgba { color: rgba(2, 104, 115, 1); }
+.Medisanitize---Colour-Theme-4-rgba { color: rgba(44, 144, 206, 1); }
+.Medisanitize---Colour-Theme-5-rgba { color: rgba(24, 197, 217, 1); }
+
+/* Color Theme Swatches in HSLA */
+.Medisanitize---Colour-Theme-1-hsla { color: hsla(348, 86, 62, 1); }
+.Medisanitize---Colour-Theme-2-hsla { color: hsla(354, 69, 50, 1); }
+.Medisanitize---Colour-Theme-3-hsla { color: hsla(185, 96, 22, 1); }
+.Medisanitize---Colour-Theme-4-hsla { color: hsla(202, 64, 49, 1); }
+.Medisanitize---Colour-Theme-5-hsla { color: hsla(186, 80, 47, 1); }
